@@ -8,7 +8,7 @@
   [![Standard Version][release]][release-url]
   [![chat on gitter][chat]][chat-url]  
   
-  导航, 文档, 以及webpack的以切.
+  导航, 文档, 以及webpack的相关的。
 </div>
 
 
